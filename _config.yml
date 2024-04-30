@@ -20,7 +20,7 @@
 
 title: Sophiah Ho
 #email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- 
   Software engineer with a cognitive science & AI degree, a cybersecurity certification (CISSP), and an enthusiasm for open source
 
 domain: anomal.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
