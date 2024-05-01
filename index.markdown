@@ -25,7 +25,7 @@ Here is a curated selection of my open source contributions.
 [github/covid19-dashboard](https://github.com/github/covid19-dashboard) (Python, JavaScript) – deprecated
 
 - Fixed JavaScript library dependency conflict in Fastpages to enable web rendering of Plotly graphs in Jupyter Notebooks 
-- Using pandas and Plotly, created live data visualizations of COVID-19 infections from data sourced daily from Ontario Data Catalogue and Health Canada (sunset)
+- Used pandas and Plotly to create live data visualizations of COVID-19 infections from data sourced daily from Ontario Data Catalogue and Health Canada (sunset)
 
 
 ## Author & Lead contributions
@@ -33,7 +33,13 @@ Here is a curated selection of my open source contributions.
 <div style="text-align: right">2012</div>
 [anomal/RainbowVis-JS](https://github.com/anomal/RainbowVis-JS) (JavaScript)
 
-- Popular colour data visualization library with currently 8K [weekly NPM downloads](https://www.npmjs.com/package/rainbowvis.js/v/1.1.1)
+- Popular colour data visualization library with currently 6K weekly [NPM](https://www.npmjs.com/package/rainbowvis.js/v/1.1.1) downloads, 300+ GitHub stars, and 70+ forks
+
+
+<div style="text-align: right">2010 – 2013</div>
+[wordpress.org/plugins/humansnotbots](https://wordpress.org/support/plugin/humansnotbots/reviews/) (JavaScript, PHP, HTML)
+
+- Accessible email address obfuscator
 
 <div style="text-align: right">2018 Feb</div>
 [anomal/ScalaPerceptron](https://github.com/anomal/ScalaPerceptron) (Scala)
@@ -44,5 +50,4 @@ Here is a curated selection of my open source contributions.
 [anomal/NewHopeKeyExchangeExample](https://github.com/anomal/NewHopeKeyExchangeExample) (Java)
 
 - Example of post-quantum key exchange using BouncyCastle's NewHope algorithm implementation 
-
 
