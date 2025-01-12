@@ -10,6 +10,8 @@ title: Open Source
 Here is a curated selection of my open source contributions.
 
 <div style="text-align: right">2024 Sep – 2024 Dec</div>
+[pgjdbc/pgjdbc](https://github.com/pgjdbc/pgjdbc) (Java)
+
 - Contributed 2 merged [pull](https://github.com/pgjdbc/pgjdbc/pull/3386/files) [requests](https://github.com/pgjdbc/pgjdbc/pull/3390/files) to the open source PostgreSQL Java Database Connectivity (JDBC) driver, updating 16 method implementations to follow the JDBC metadata API specifications
 
 <div style="text-align: right">2021 Sep</div>
