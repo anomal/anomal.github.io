@@ -9,7 +9,8 @@ title: Open Source
 ---
 Here is a curated selection of my open source contributions.
 
-## Community contributions
+<div style="text-align: right">2024 Sep – 2024 Dec</div>
+- Contributed 2 merged [pull](https://github.com/pgjdbc/pgjdbc/pull/3386/files) [requests](https://github.com/pgjdbc/pgjdbc/pull/3390/files) to the open source PostgreSQL Java Database Connectivity (JDBC) driver, updating 16 method implementations to follow the JDBC metadata API specifications
 
 <div style="text-align: right">2021 Sep</div>
 [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) (Java)
@@ -27,8 +28,15 @@ Here is a curated selection of my open source contributions.
 - Fixed JavaScript library dependency conflict in Fastpages to enable web rendering of Plotly graphs in Jupyter Notebooks 
 - Used pandas and Plotly to create live data visualizations of COVID-19 infections from data sourced daily from Ontario Data Catalogue and Health Canada (sunset)
 
+<div style="text-align: right">2019 Mar</div>
+[anomal/NewHopeKeyExchangeExample](https://github.com/anomal/NewHopeKeyExchangeExample) (Java)
 
-## Author & Lead contributions
+- Example of post-quantum key exchange using BouncyCastle's NewHope algorithm implementation 
+
+<div style="text-align: right">2018 Feb</div>
+[anomal/ScalaPerceptron](https://github.com/anomal/ScalaPerceptron) (Scala)
+
+- Perceptron neural network implemented in Scala
 
 <div style="text-align: right">2012</div>
 [anomal/RainbowVis-JS](https://github.com/anomal/RainbowVis-JS) (JavaScript)
@@ -41,13 +49,6 @@ Here is a curated selection of my open source contributions.
 
 - Accessible email address obfuscator
 
-<div style="text-align: right">2018 Feb</div>
-[anomal/ScalaPerceptron](https://github.com/anomal/ScalaPerceptron) (Scala)
 
-- Perceptron neural network implemented in Scala
 
-<div style="text-align: right">2019 Mar</div>
-[anomal/NewHopeKeyExchangeExample](https://github.com/anomal/NewHopeKeyExchangeExample) (Java)
-
-- Example of post-quantum key exchange using BouncyCastle's NewHope algorithm implementation 
 
