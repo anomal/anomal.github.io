@@ -13,7 +13,7 @@ Here is a curated selection of my open source contributions.
 
 [pgjdbc/pgjdbc](https://github.com/pgjdbc/pgjdbc) (Java) &emsp; 2024 Sep – 2024 Dec
 
-- Contributed 2 merged [pull](https://github.com/pgjdbc/pgjdbc/pull/3386/files) [requests](https://github.com/pgjdbc/pgjdbc/pull/3390/files) to the open source PostgreSQL Java Database Connectivity (JDBC) driver, updating 16 method implementations to follow the JDBC metadata API specifications
+- Contributed 3 [merged](https://github.com/pgjdbc/pgjdbc/pull/3390/files) [pull](https://github.com/pgjdbc/pgjdbc/pull/3660) [requests](https://github.com/pgjdbc/pgjdbc/pull/3386/files) to the open source PostgreSQL Java Database Connectivity (JDBC) driver, updating 16 method implementations to follow the JDBC metadata API specifications
 
 **Contributor**
 
@@ -42,21 +42,9 @@ Here is a curated selection of my open source contributions.
 
 **Author**
 
-[anomal/ScalaPerceptron](https://github.com/anomal/ScalaPerceptron) (Scala) &emsp; 2018 Feb
-
-- Perceptron neural network implemented in Scala
-
-**Author**
-
 [anomal/RainbowVis-JS](https://github.com/anomal/RainbowVis-JS) (JavaScript) &emsp; 2012
 
 - Popular colour data visualization library with currently 6K weekly [NPM](https://www.npmjs.com/package/rainbowvis.js/v/1.1.1) downloads, 300+ GitHub stars, and 70+ forks
-
-**Author**
-
-[wordpress.org/plugins/humansnotbots](https://wordpress.org/support/plugin/humansnotbots/reviews/) (JavaScript, PHP, HTML) &emsp; 2010 – 2013
-
-- Accessible email address obfuscator
 
 
 
